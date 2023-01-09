@@ -1,3 +1,9 @@
+## News-Worm
+# React based news fetcing website
+### Using free News-api
+#### Feel free to suggest changes and to commit
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
